@@ -7,4 +7,4 @@
 ---
 
 
-![banner](https://pin.it/7om1TG2c5)
+![banner](/banner.gif)
