@@ -55,9 +55,7 @@
 ## 📫 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-🐙-181717?style=for-the-badge)](https://github.com/M-Aftab-Khan)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-aftab-b5a549166)
-
 [![Email](https://img.shields.io/badge/Email-📧-EA4335?style=for-the-badge)](mailto:aftabjsdev@gmail.com)
 
 ---
